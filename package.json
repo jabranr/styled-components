@@ -24,6 +24,10 @@
   },
   "packageManager": "yarn@4.0.2",
   "devDependencies": {
-    "@changesets/cli": "^2.27.7"
+    "@changesets/cli": "^2.27.7",
+    "@emotion/use-insertion-effect-with-fallbacks": "1.2.0"
+  },
+  "peerDependencies": {
+    "@emotion/use-insertion-effect-with-fallbacks": "1.2.0"
   }
 }

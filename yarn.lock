@@ -2805,6 +2805,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@emotion/use-insertion-effect-with-fallbacks@npm:1.2.0":
+  version: 1.2.0
+  resolution: "@emotion/use-insertion-effect-with-fallbacks@npm:1.2.0"
+  peerDependencies:
+    react: ">=16.8.0"
+  checksum: 074dbc92b96bdc09209871070076e3b0351b6b47efefa849a7d9c37ab142130767609ca1831da0055988974e3b895c1de7606e4c421fecaa27c3e56a2afd3b08
+  languageName: node
+  linkType: hard
+
 "@emotion/use-insertion-effect-with-fallbacks@npm:^1.0.1":
   version: 1.0.1
   resolution: "@emotion/use-insertion-effect-with-fallbacks@npm:1.0.1"
@@ -11964,6 +11973,9 @@ __metadata:
   resolution: "styled-components-project@workspace:."
   dependencies:
     "@changesets/cli": "npm:^2.27.7"
+    "@emotion/use-insertion-effect-with-fallbacks": "npm:1.2.0"
+  peerDependencies:
+    "@emotion/use-insertion-effect-with-fallbacks": 1.2.0
   languageName: unknown
   linkType: soft
 
