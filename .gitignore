@@ -30,3 +30,6 @@ README.md
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+!temp-sc/dist
+!temp-sc/**/*/dist
